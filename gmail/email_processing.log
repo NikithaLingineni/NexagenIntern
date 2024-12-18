@@ -1,0 +1,20 @@
+2024-12-18 12:17:17,068 - API Response: {'messages': [{'id': '193d863e058551e8', 'threadId': '193d863e058551e8'}, {'id': '193d86316db20241', 'threadId': '193d86316db20241'}, {'id': '193d8627d2fc7447', 'threadId': '193d8627d2fc7447'}, {'id': '193d861eff54ad9b', 'threadId': '193d861eff54ad9b'}, {'id': '193d86148abb5276', 'threadId': '193d86148abb5276'}], 'resultSizeEstimate': 5}
+2024-12-18 12:17:17,068 - Fetched Messages: [{'id': '193d863e058551e8', 'threadId': '193d863e058551e8'}, {'id': '193d86316db20241', 'threadId': '193d86316db20241'}, {'id': '193d8627d2fc7447', 'threadId': '193d8627d2fc7447'}, {'id': '193d861eff54ad9b', 'threadId': '193d861eff54ad9b'}, {'id': '193d86148abb5276', 'threadId': '193d86148abb5276'}]
+2024-12-18 12:17:18,293 - Marking email 193d863e058551e8 as read: 200
+2024-12-18 12:17:18,293 - Message 193d863e058551e8 marked as read.
+2024-12-18 12:17:19,770 - Marking email 193d86316db20241 as read: 200
+2024-12-18 12:17:19,770 - Message 193d86316db20241 marked as read.
+2024-12-18 12:17:21,483 - Marking email 193d8627d2fc7447 as read: 200
+2024-12-18 12:17:21,483 - Message 193d8627d2fc7447 marked as read.
+2024-12-18 12:17:22,911 - Marking email 193d861eff54ad9b as read: 200
+2024-12-18 12:17:22,911 - Message 193d861eff54ad9b marked as read.
+2024-12-18 12:17:24,095 - Marking email 193d86148abb5276 as read: 200
+2024-12-18 12:17:24,095 - Message 193d86148abb5276 marked as read.
+2024-12-18 12:17:24,119 - Emails saved to database successfully!
+2024-12-18 12:17:24,119 - Emails processed and saved successfully.
+2024-12-18 12:35:00,167 - API Response: {'messages': [{'id': '193d8951cdf1858d', 'threadId': '193d8951cdf1858d'}], 'resultSizeEstimate': 1}
+2024-12-18 12:35:00,167 - Fetched Messages: [{'id': '193d8951cdf1858d', 'threadId': '193d8951cdf1858d'}]
+2024-12-18 12:35:01,633 - Marking email 193d8951cdf1858d as read: 200
+2024-12-18 12:35:01,633 - Message 193d8951cdf1858d marked as read.
+2024-12-18 12:35:01,666 - Emails saved to database successfully!
+2024-12-18 12:35:01,666 - Emails processed and saved successfully.
